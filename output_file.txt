@@ -1,0 +1,25 @@
+12-13 19:49:51.629 W/System.err( 4052): java.net.UnknownHost[44;33m{sub_str}[m: Unable to resolve host "www.facebook.com": No address associated with hostname
+12-13 19:49:51.630 W/System.err( 4052): Caused by: android.system.Gai[44;33m{sub_str}[m: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-13 19:50:04.415 E/StdOutDevice( 4498): java.io.FileNotFound[44;33m{sub_str}[m: /system/etc/media_profiles.xml (No such file or directory)
+12-13 19:50:04.418 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:04.418 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:08.204 E/StdOutDevice( 4498): java.io.FileNotFound[44;33m{sub_str}[m: /system/etc/media_profiles.xml (No such file or directory)
+12-13 19:50:08.205 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:08.205 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:10.941 E/StdOutDevice( 4498): java.io.FileNotFound[44;33m{sub_str}[m: /system/etc/media_profiles.xml (No such file or directory)
+12-13 19:50:10.942 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:10.942 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:21.717 W/System.err( 4052): java.net.UnknownHost[44;33m{sub_str}[m: Unable to resolve host "www.facebook.com": No address associated with hostname
+12-13 19:50:21.718 W/System.err( 4052): Caused by: android.system.Gai[44;33m{sub_str}[m: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+12-13 19:50:38.221 E/AndroidRuntime( 4620): FATAL [44;33m{sub_str}[m: main
+12-13 19:50:38.221 E/AndroidRuntime( 4620): java.lang.Runtime[44;33m{sub_str}[m: Unable to start activity ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraActivity}: java.lang.IndexOutOfBounds[44;33m{sub_str}[m: Index: 0, Size: 0
+12-13 19:50:38.221 E/AndroidRuntime( 4620): Caused by: java.lang.IndexOutOfBounds[44;33m{sub_str}[m: Index: 0, Size: 0
+12-13 19:50:39.521 E/StdOutDevice( 4498): java.io.FileNotFound[44;33m{sub_str}[m: /system/etc/media_profiles.xml (No such file or directory)
+12-13 19:50:39.522 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:39.522 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:44.067 E/AndroidRuntime( 4678): FATAL [44;33m{sub_str}[m: main
+12-13 19:50:44.067 E/AndroidRuntime( 4678): java.lang.Runtime[44;33m{sub_str}[m: Unable to start activity ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraActivity}: java.lang.IndexOutOfBounds[44;33m{sub_str}[m: Index: 0, Size: 0
+12-13 19:50:44.067 E/AndroidRuntime( 4678): Caused by: java.lang.IndexOutOfBounds[44;33m{sub_str}[m: Index: 0, Size: 0
+12-13 19:50:45.374 E/StdOutDevice( 4498): java.io.FileNotFound[44;33m{sub_str}[m: /system/etc/media_profiles.xml (No such file or directory)
+12-13 19:50:45.374 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+12-13 19:50:45.374 E/StdOutDevice( 4498): java.lang.NullPointer[44;33m{sub_str}[m: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
