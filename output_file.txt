@@ -1,3 +1,5 @@
+<<output file>>
+
 12-13 19:49:51.629 W/System.err( 4052): java.net.UnknownHost[44;33m{sub_str}[m: Unable to resolve host "www.facebook.com": No address associated with hostname
 12-13 19:49:51.630 W/System.err( 4052): Caused by: android.system.Gai[44;33m{sub_str}[m: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
 12-13 19:50:04.415 E/StdOutDevice( 4498): java.io.FileNotFound[44;33m{sub_str}[m: /system/etc/media_profiles.xml (No such file or directory)
