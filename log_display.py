@@ -1,3 +1,5 @@
+#To display the functionality code:
+
 from tkinter import *
 import re, os, Error_Analysis
 
